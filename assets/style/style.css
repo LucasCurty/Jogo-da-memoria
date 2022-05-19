@@ -35,8 +35,8 @@ body{
     transform: rotateY(180deg);
 }
 .card_back{
-    color: #101c2c;
-    background-color: #4258bb;
+    color: white;
+    background-color: #6641cc;
     font-size: 1.5rem;
     font-weight: 600;
 }
@@ -44,7 +44,7 @@ body{
     transform: rotateY(180deg);
 }
 
-.gameOver{
+#gameOver{
     position: absolute;
     top: 0;
     
